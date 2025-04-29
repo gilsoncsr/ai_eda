@@ -35,6 +35,16 @@ This code performs several operations for manipulating, analyzing, and visualizi
 
 This code is a complete example of how to explore and analyze a customer churn dataset using pandas, matplotlib, and scipy for visualization and statistical tests.
 
+1. Clone Repo
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run Jupyter notebook
+
 ---
 
 **Spanish**:
